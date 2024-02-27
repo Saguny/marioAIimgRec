@@ -1,0 +1,14 @@
+path: "I:/School Project/mario AI image recognition/Yolo/data"
+train: images/train
+val: images/train
+
+# Classes
+names:
+  0: bullet,
+  1: goomba,
+  2: ground,
+  3: koopa,
+  4: mario,
+  5: pipe,
+  6: spike_turtle,
+  7: turtle
