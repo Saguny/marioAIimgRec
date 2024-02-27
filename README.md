@@ -20,10 +20,10 @@ Programming Language used:
 Python version 3.11
 
 Ressources used:
-Stackoverflow
-Reddit
-Github
-https://docs.ultralytics.com
+- Stackoverflow
+- Reddit
+- Github
+- https://docs.ultralytics.com
 
 
 
